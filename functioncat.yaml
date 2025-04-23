@@ -1,6 +1,8 @@
+# 函数猫的系统定义文件
+
 system: 1.0.0
 info:
-  name: astro paper 
+  name: zhou use AstroPaper
 envs:
   prod:
     branch: main
@@ -18,4 +20,3 @@ apps:
         provision:
           root_path: dist
           type: nodejs18x
-     
